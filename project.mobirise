@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "events.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2425,7 +2425,7 @@
         }
       ]
     },
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
